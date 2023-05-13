@@ -17,8 +17,8 @@ import processing.core.PApplet;
 
 /** An applet that shows airports (and routes)
  * on a world map.  
- * @author Adam Setters and the UC San Diego Intermediate Software Development
- * MOOC team
+ * 
+ * 
  *
  */
 public class AirportMap extends PApplet {

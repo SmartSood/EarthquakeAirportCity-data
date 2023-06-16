@@ -5,3 +5,5 @@ All the zoom and clicking functions are enabled
 Click on any city marker to see which earthquake has influenced it and which airports are near to it 
 Click on any earthquake marker to see its information
 Hover mouse over any marker for its information
+
+This code has been developed with UC San Diego in an online course.
